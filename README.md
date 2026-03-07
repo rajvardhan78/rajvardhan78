@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a python geek committed to continuous learning and technical improvement.
+I'm a WebDev geek committed to continuous learning and technical improvement.
 
 
 ## 🌐 Socials:
