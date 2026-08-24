@@ -54,8 +54,6 @@ Aspiring Software Eng with creative and artistic background
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rajvardhan78&layout=pie&langs_count=8&theme=rose)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rajvardhan78&theme=rose)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajvardhan78&theme=rose)
 
 ---
