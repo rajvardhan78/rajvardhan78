@@ -2,7 +2,7 @@
 
 # Hi, I'm Rajvardhan 👋
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0F8B85&center=true&vCenter=true&width=600&lines=.NET%20Dev)
+![Typing animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0F8B85&center=true&vCenter=true&width=600&lines=ReactJS%20%2B%20.NET%20Core%20Full%20Stack%20Developer)
 
 ---
 
