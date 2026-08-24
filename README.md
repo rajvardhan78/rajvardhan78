@@ -66,7 +66,7 @@ Aspiring Software Eng with creative and artistic background
 
 ## Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajvardhan78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajvardhanshinde) [![Portfolio](https://img.shields.io/badge/Portfolio-0F8B85?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajvardhanshinde.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajvardhan78) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajvardhanshinde) [![Portfolio](https://img.shields.io/badge/Portfolio-0F8B85?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajvardhanshinde-eta.vercel.app/)
 
 ---
 
